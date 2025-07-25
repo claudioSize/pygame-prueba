@@ -1,0 +1,7 @@
+ANCHO = 800
+ALTO = 600
+
+VERDE = (0, 255, 0)
+NARANJA = (255, 165, 0)
+COLOR_ORIGINAL = (0, 0, 255)
+NEGRO = (0, 0, 0)
